@@ -94,7 +94,7 @@ If you encounter issues on desktop, please [open an issue](https://github.com/Sa
 
 ## Local API Server
 
-**Uncensored Local AI** includes a built-in **OpenAI-compatible REST API** so you can connect it to any external tool, script, or IDE extension.
+**Aurora** includes a built-in **OpenAI-compatible REST API** so you can connect it to any external tool, script, or IDE extension.
 
 ### Setup
 
