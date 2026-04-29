@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Uncensored Local AI — Android</h1>
+  <h1>Aurora Local AI — Android</h1>
 
   <p><strong>Run unrestricted AI models entirely on your device.<br/>No cloud. No filters. No limits.</strong></p>
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Uncensored Local AI** is a mobile-first application that runs powerful open-source AI models directly on your **Android device** — with zero censorship, zero cloud dependency, and zero monthly fees.
+**Aurora Local AI** is a mobile-first application that runs powerful open-source AI models directly on your **Android device** — with zero censorship, zero cloud dependency, and zero monthly fees.
 
 No API keys. No subscriptions. No content restrictions. Your conversations never leave your device.
 
@@ -70,13 +70,13 @@ No API keys. No subscriptions. No content restrictions. Your conversations never
 > Desktop builds compile successfully but may have rough edges. **We are actively looking for contributors** to help test and polish the desktop experience.
 
 ```bash
-git clone https://github.com/techjarves/Uncensored-Local-AI-Multiplatform.git
-cd Uncensored-Local-AI-Multiplatform
+git clone https://github.com/Sahil-Kadam88/Aurora.git
+cd Aurora-Uncensored-Local-AI-Multiplatform
 flutter pub get
 flutter run -d windows   # or macos / linux
 ```
 
-If you encounter issues on desktop, please [open an issue](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform/issues) — your feedback directly shapes the roadmap.
+If you encounter issues on desktop, please [open an issue](https://github.com/Sahil-Kadam88/Aurora.git/issues) — your feedback directly shapes the roadmap.
 
 ---
 
